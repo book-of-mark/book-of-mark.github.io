@@ -40,7 +40,7 @@ jobs:
           extended: true
 
       - name: Install Dart Sass
-        run: sudo snap install dart-sass
+        run: npm install -g sass
 
       - name: Setup Pages
         id: pages
