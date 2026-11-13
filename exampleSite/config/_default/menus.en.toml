@@ -1,0 +1,31 @@
+
+[[main]]
+name = "About"
+url = "book"
+weight = 1
+
+[[main]]
+name = "Chapter"
+url = "chapter"
+weight = 2
+
+[[main]]
+name = "Reviews"
+url = "review"
+weight = 3
+
+[[main]]
+name = "Author"
+url = "author"
+weight = 4
+
+[[main]]
+name = "Blog"
+url = "blog"
+weight = 5
+
+[[main]]
+name = "Contact"
+url = "contact"
+weight = 6
+
